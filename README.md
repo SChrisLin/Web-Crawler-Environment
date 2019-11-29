@@ -29,8 +29,8 @@
 
 - [2015年全国地表水水质月报（8月份）](http://www.cnemc.cn/jcbg/qgdbsszyb/201509/t20150923_647223.shtml): pdf下载页面无法打开。
 
-- [2012年12期水质月报](http://www.cnemc.cn/jcbg/qgdbsszyb/201305/t20130501_647192.shtml) :  pdf下载页面无法打开。
-- [2012年11期水质月报](http://www.cnemc.cn/jcbg/qgdbsszyb/201304/t20130410_647191.shtml)  :  pdf下载页面无法打开。
+- [2012年12期水质月报](http://www.cnemc.cn/jcbg/qgdbsszyb/201305/t20130501_647192.shtml) :   无pdf页面。   
+- [2012年11期水质月报](http://www.cnemc.cn/jcbg/qgdbsszyb/201304/t20130410_647191.shtml)  :   无pdf页面。   
 - [暂停水质月报发布的通知](http://www.cnemc.cn/jcbg/qgdbsszyb/201106/t20110621_647188.shtml) : 无pdf页面。   
 - [2007年11月水质月报](http://www.cnemc.cn/jcbg/qgdbsszyb/200804/t20080417_647183.shtml)  :  pdf下载页面无法打开。
 
