@@ -4,6 +4,9 @@
 由于只有“全国地表水水质月报”内容较多，因此对于"[全国地表水水质月报](http://www.cnemc.cn/jcbg/qgdbsszyb/)"中的内容使用**网络爬虫**获得。其他报告人工点击下载得到。
 
 # 直接下载已爬取内容
+- 链接：https://pan.baidu.com/s/1cwuSd-v_HgHMbnkb6mULEQ 
+- 提取码：cc61 
+- 下载后解压即可看到下载的所有报告
 
 # 如何运行代码
 - 安装Python 3.X环境
